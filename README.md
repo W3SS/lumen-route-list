@@ -3,5 +3,5 @@ Display Lumen Registered Route List
 
 ## Usage:
 
-  Put these files into lumen directory as same hirerchy 
-  Run the command: php artisan route:list
+  1. Put these files into lumen directory as same hirerchy 
+  2. Run the command: php artisan route:list
